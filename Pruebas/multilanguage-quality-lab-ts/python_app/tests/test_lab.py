@@ -1,5 +1,5 @@
-from palindromo import es_palindromo
-from utils import suma
+from python_app.palindromo import es_palindromo
+from python_app.utils import suma
 
 def test_palindromo_basico():
     assert es_palindromo("radar") is True
