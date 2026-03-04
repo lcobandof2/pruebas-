@@ -1,4 +1,4 @@
-
+## LEIDY CAROLINA OBANDO FIGUEROA 
 # Laboratorio: Pruebas estáticas y unitarias (Python + JavaScript)
 
 **Objetivo (45 minutos):** ejecutar análisis estático y escribir/aplicar pruebas unitarias en dos lenguajes (Python y JavaScript) dentro de **GitHub Codespaces**, sobre un proyecto que **funciona**, pero contiene **issues intencionales** detectables por linters.
